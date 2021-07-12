@@ -3,6 +3,7 @@
 - [Omkar Gaikwad](https://github.com/omkargaikwad-23)
   [sktht](https://github.com/sktht)
 - [raishaasuma](https://github.com/raishaasuma)
+- [Dongdong Shi](https://github.com/Dongdong-Shi)
 - [Vishal Chopra](https://github.com/pythonvishal)
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
